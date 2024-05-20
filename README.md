@@ -12,14 +12,14 @@ This is a simple web application for taking and managing notes.
 
 ## File Structure
 
-notes-app/
+```notes-app/
 │
 ├── index.html # HTML file for the main application layout
 ├── style.css # CSS file for styling the application
 ├── script.js # JavaScript file for application logic
 │
 ├── README.md # You are here!
-└── assets/ # Directory for storing assets like icons and fonts
+```
 
 ## How to Use
 
